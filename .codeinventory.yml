@@ -1,0 +1,13 @@
+name: 'tweetstream'
+description: 'GSA maintained fork of tweetstream'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - Search.gov
+    - search
+    - twitter
+    - gem
+contact:
+    email: search@gsa.gov
